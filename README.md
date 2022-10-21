@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi 👋, I'm a Software Engineer Working in Cottbus, Germany (Origin Pakistan)
+Now
+
+✨ Pursuing Master's in Artificial Intelligence from Brandenburg Technical University of Cottbus;
+🔥 Interested in Software Development, Data Science and Artificial Intellegence;
+📆 Available for Freelance Work Regarding Android App Development, Website Development;
 
 <!--
 **Afaqrehman98/Afaqrehman98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
