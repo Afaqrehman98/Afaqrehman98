@@ -2,7 +2,9 @@
 Now
 
 ✨ Pursuing Master's in Artificial Intelligence from Brandenburg Technical University of Cottbus;
+
 🔥 Interested in Software Development, Data Science and Artificial Intellegence;
+
 📆 Available for Freelance Work Regarding Android App Development, Website Development;
 
 <!--
